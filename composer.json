@@ -1,6 +1,6 @@
 {
     "name": "suren/laravel-mongo-model-schema",
-    "description": "Make mongo data saving and retrieving match defined schemas for Laravel",
+    "description": "Make mongo data saving and retrieving match defined schemas for Laravel. Support nested data model.",
     "keywords": [
         "laravel",
         "eloquent",
@@ -8,6 +8,7 @@
         "mongo",
         "database",
         "model",
+        "nested",
         "schema"
     ],
     "homepage": "https://github.com/suren1986/laravel-mongo-model-schema",

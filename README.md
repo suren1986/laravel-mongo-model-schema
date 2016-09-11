@@ -1,7 +1,7 @@
 Schema for Laravel MongoDB Model
 ================================
 
-An Eloquent model and Query builder with schema support for MongoDB, using the original Laravel API. This library extends the original Laravel classes, so it uses exactly the same methods.
+An extension of [Laravel MongoDB](https://github.com/jenssegers/laravel-mongodb)
 
 Data will be formatted by defined schemas when saving to the MongoDB.
 Data will be cast by defined schemas, when retrieving from MongoModel or NestedMongoModel instance, just like what the Laravel Eloquent do.
