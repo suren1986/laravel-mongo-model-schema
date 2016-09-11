@@ -1,0 +1,32 @@
+{
+    "name": "suren/laravel-mongo-model-schema",
+    "description": "Make mongo data saving and retrieving match defined schemas for Laravel",
+    "keywords": [
+        "laravel",
+        "eloquent",
+        "mongodb",
+        "mongo",
+        "database",
+        "model",
+        "schema"
+    ],
+    "homepage": "https://github.com/suren1986/laravel-mongo-model-schema",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": ":Suren",
+            "email": "suren1986@gmail.com",
+            "homepage": "http://suren1986.in",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.4",
+        "jenssegers/mongodb": ">=3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Suren\\LaravelMongoModelSchema\\": "src"
+        }
+    }
+}
